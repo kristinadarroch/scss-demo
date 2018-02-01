@@ -1,0 +1,7 @@
+$first-var : pink;
+$text-change : 40px;
+
+h1{
+  color: $first-var;
+  font-size: $text-change;
+}
